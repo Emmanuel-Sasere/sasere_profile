@@ -39,23 +39,23 @@ export const projectsData = [
     demo: "https://www.studystern.com",
     image: three,
   },
-//   {
-//     id: 4,
-//     projectName: "Android Patient Tracker",
-//     projectDesc:
-//       "This project involves the development of an Android application for viewing and managing patient data.",
-//     tags: ["Flutter", "Firebase"],
-//     code: "https://github.com/hhhrrrttt222111/developer-portfolio",
-//     demo: "https://github.com/hhhrrrttt222111/developer-portfolio",
-//     image: four,
-//   },
+  {
+    id: 4,
+    projectName: "Sleek Innovation",
+    projectDesc:
+      "This project involves the development of an Android application for viewing and managing patient data.",
+    tags: ["HTML", "CSS", "Javascript"],
+    code: "https://github.com/hhhrrrttt222111/developer-portfolio",
+    demo: "https://sleekinnovation.netlify.app",
+    image: four,
+  },
   {
     id: 5,
     projectName: "WealthSea Investment App",
     projectDesc: "WealthSea Investment App",
-    tags: ["Javascript", "CSS", "Firebase", "Html" ],
+    tags: ["Javascript", "CSS", "Firebase", "Html"],
     code: "https://github.com/Emmanuel-Sasere/WealthSea-Investment-App",
-    demo: "https://github.com/Emmanuel-Sasere/WealthSea-Investment-App",
+    demo: "https://wealthsea.netlify.app/",
     image: five,
   },
   {
@@ -64,7 +64,7 @@ export const projectsData = [
     projectDesc: "Piggyvest Clone",
     tags: ["Javascript", "HTML", "CSS"],
     code: "https://github.com/Emmanuel-Sasere/Piggyvest-Clone",
-    demo: "https://github.com/Emmanuel-Sasere/Piggyvest-Clone",
+    demo: "https://dev-sasem-piggyvest-clone.netlify.app/",
     image: six,
   },
   {
